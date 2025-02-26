@@ -2,8 +2,18 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18408332&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Version control is a system that helps you track and manage changes to code, documents, or other digital content over time. 
+Github is quite popular because it hosts a vast number of open-source projects, making it easy to find and contribute to existing projects as well as its ability to handle large projects and teams with ease.
+Version control helps maintain project integrity in several ways including:
+1. Change tracking: Keeps a record of all changes, making it easy to identify who made changes, when, and why, due to the timestapped commit messages.
+2. Collaboration: Enables multiple developers to work together, reducing conflicts and errors.
+3. Backup and recovery: Provides a backup of the project, allowing you to recover previous versions in case of errors or data loss.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+After creating a github account, navigate to your dashboard. From here, click the New button at the top left corner of the dashboard in order to start creating a new repository.
+You will be directed to a new page with the heading "New repository". This page will have several options to setup the new repository such as setting a required repository name, an optional description of the repository, visibility of the repository; This allows one to choose whether the repository will be public and accessible globally, or private, to ensure that only you and specific collaborators can access it. You can also optionally include a Readme file while acts as the coverpage of the entire repository as well as an optional .gitignore file while specifies which files to track and which not. Finally there is an option to add a Licence to the repository.
+After choosing all the options above, click on the create repository button and your new repository will be created successfully.
+You need to clearly decide on the repository name, repository visibility, licences if applicable and the necessity of the readme file during this process
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
